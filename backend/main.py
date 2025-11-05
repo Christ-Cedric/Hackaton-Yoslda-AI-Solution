@@ -7,7 +7,7 @@ import json
 import os
 from typing import List, Optional
 from datetime import datetime
-from database import DatabaseManager
+from backend.database import DatabaseManager
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import requests
