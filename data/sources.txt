@@ -1,0 +1,30 @@
+SOURCES UTILISÉES POUR LE CORPUS - ENTREPRENEURIAT BURKINA FASO
+======================================================================
+
+DOMAINE: Entrepreneuriat au Burkina Faso
+DATE DE COLLECTE: 2025-11-05
+NOMBRE TOTAL DE DOCUMENTS: 500
+
+RÉPARTITION:
+- Articles web: 7
+- Documents PDF: 0
+- Données synthétiques: 493
+
+SITES WEB SCRAPÉS:
+----------------------------------------------------------------------
+- acep-bf.com
+- biznesskibaya.com
+- investburkina.com
+- sinergiburkina.com
+- dgi.bf
+- www.international.gc.ca
+
+DOCUMENTS PDF:
+----------------------------------------------------------------------
+
+CATÉGORIES COUVERTES:
+----------------------------------------------------------------------
+- financement: 3 documents
+- entrepreneuriat: 493 documents
+- fiscalite: 3 documents
+- creation_entreprise: 1 documents
